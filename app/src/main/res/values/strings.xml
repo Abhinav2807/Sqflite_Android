@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sqlPro</string>
+    <string name="songname">Songtitle</string>
 </resources>
